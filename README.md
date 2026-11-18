@@ -1,18 +1,18 @@
 # Shopping for a Better World — Advertising Materials
 
-This repository stores advertising materials for Alonovo's **Shopping for a Better World** campaign.
+Advertising materials for Alonovo's Shopping for a Better World campaign.
 
-## Contents
+## Files
 
-- `ad-copy/solarpunk-newsletter.md` — proposed Solarpunk Magazine newsletter ad copy.
-- `images/solarpunk-ad-400x400.png` — campaign artwork resized to 400 × 400 pixels.
-- `design-source/design-notes.md` — brief description of the selected visual direction.
+- `solarpunk-newsletter.md` — Solarpunk newsletter ad copy.
+- `solarpunk-ad-400x400.png` — 400 × 400 campaign artwork.
+- `design-notes.md` — Selected design direction.
 
 ## Campaign links
 
 - Black Friday guide: https://alonovo.cooperation.org/blackfriday
 - Alonovo: https://alonovo.cooperation.org
 
-## Notes
+## Status
 
-The ad copy and artwork are prepared for review and submission. Do not treat the ad as booked or published until Solarpunk Magazine confirms the placement and the campaign owner approves any cost.
+Prepared for review and submission. Advertising placement is not yet confirmed.
